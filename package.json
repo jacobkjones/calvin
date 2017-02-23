@@ -36,6 +36,7 @@
     "hubot-speaking-of-which": "0.0.4",
     "hubot-star-wars": "^0.2.0",
     "hubot-sweet-slack-themes": "github:dan-menard/hubot-sweet-slack-themes",
+    "hubot-troll": "0.0.1",
     "hubot-trollbot": "^0.1.1",
     "hubot-voting": "^1.0.0",
     "hubot-wsc": "github:reformeddevs/hubot-wsc"
