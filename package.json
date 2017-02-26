@@ -2,7 +2,7 @@
   "name": "calvinbot",
   "version": "0.0.1",
   "private": true,
-  "author": "Jacob Jones <jacob@762media.com>",
+  "author": "Jacob Jones <jacob@762media.com>; Originally: sircharleswatson@gmail.com",
   "description": "A simple helpful robot named after everyone's favorite Theologian",
   "dependencies": {
     "hubot": "^2.19.0",
